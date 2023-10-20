@@ -29,6 +29,3 @@ function moveDodgerLeft() {
     }
   })
 
-  console.log(moveDodgerLeft())
-  console.log(moveDodgerRight())
-  
